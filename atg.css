@@ -1,0 +1,40 @@
+@charset "UFT-8";
+
+section{
+    display: flex;
+}
+
+article{
+    border: 1px solid black;
+    margin: 10px;
+    background-color: aqua;
+    font-family: ;
+
+}
+
+header{
+    background-color: aliceblue;
+    text-align: center;
+
+}
+
+nav a{
+    text-decoration: none;
+    
+
+}
+
+nav{
+    background-color: ;
+    text-align: ;
+    font-size: ;
+
+
+}
+
+body{
+    margin: 0px;
+
+
+
+}
